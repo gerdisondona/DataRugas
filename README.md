@@ -10,7 +10,7 @@ O objetivo principal é transformar dados brutos de vendas e despesas em insight
 
 O projeto utiliza a **Arquitetura Medalhão (Medallion Architecture)**, uma abordagem padrão para organizar e refinar dados em camadas lógicas. O fluxo de dados pode ser visualizado da seguinte forma:
 
-![Fluxo de Dados do Projeto](https://drive.google.com/drive/u/0/folders/10YRK7b1MM8l-PiyZdmyNW7vGRWQLi3C7)
+![Fluxo de Dados do Projeto](https://encurtador.com.br/7jOzj)
 
 A arquitetura é dividida nas seguintes camadas:
 
